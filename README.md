@@ -29,4 +29,4 @@ ___
 
 # 連結
 文字使用[]標記，緊接著(網址)
-[連結](https://www.google.com.tw)
+> [連結](https://www.google.com.tw)
